@@ -1,7 +1,7 @@
 # 🛡️ Enterprise Data Engineering & Financial Fraud Detection Pipeline
 
 **Author:** Muhammad Mustaqeem  
-**Program:** Data Science Industrial Training | Batch: 2026[cite: 1]  
+**Program:** Data Science Industrial Training | Batch: 2026
 **Organization:** DecodeLabs[cite: 1]  
 **Repository:** [DecodeLabs-Internship](https://github.com/Mustaqeem165/DecodeLabs-Internship)
 
